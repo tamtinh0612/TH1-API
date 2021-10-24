@@ -1,0 +1,256 @@
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\ApplicationInsights.config
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\roslyn\csc.exe
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\roslyn\System.Collections.Immutable.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\roslyn\System.Reflection.Metadata.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\roslyn\vbc.exe
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\roslyn\VBCSCompiler.exe
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\roslyn\VBCSCompiler.exe.config
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\CrudOperation.dll.config
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\CrudOperation.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\CrudOperation.pdb
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Antlr3.Runtime.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\EntityFramework.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\EntityFramework.SqlServer.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AI.DependencyCollector.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AI.Web.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AI.WindowsServer.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.ApplicationInsights.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.Google.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Web.Infrastructure.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Newtonsoft.Json.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Owin.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Net.Http.Formatting.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.Helpers.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.Http.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.Http.WebHost.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.Mvc.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.Optimization.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.Razor.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.WebPages.Deployment.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.WebPages.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.WebPages.Razor.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\WebGrease.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AI.DependencyCollector.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AI.Web.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AI.WindowsServer.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.ApplicationInsights.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.Helpers.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.Mvc.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.Optimization.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.Razor.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.WebPages.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.WebPages.Deployment.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.WebPages.Razor.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Antlr3.Runtime.pdb
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Newtonsoft.Json.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Net.Http.Formatting.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.Http.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\System.Web.Http.WebHost.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\EntityFramework.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\EntityFramework.SqlServer.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.Google.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\obj\Debug\CrudOperation.csprojResolveAssemblyReference.cache
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\obj\Debug\CrudOperation.dll
+E:\Writting\Angularjs\Crud Operation Using Angularjs and web api\CrudOperation\CrudOperation\obj\Debug\CrudOperation.pdb
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\ApplicationInsights.config
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\CrudOperation.dll.config
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\CrudOperation.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\CrudOperation.pdb
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Antlr3.Runtime.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\EntityFramework.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\EntityFramework.SqlServer.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AI.DependencyCollector.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AI.Web.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AI.WindowsServer.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.ApplicationInsights.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.Google.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Web.Infrastructure.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Newtonsoft.Json.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Owin.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Net.Http.Formatting.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.Helpers.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.Http.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.Http.WebHost.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.Mvc.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.Optimization.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.Razor.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.WebPages.Deployment.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.WebPages.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.WebPages.Razor.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\WebGrease.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AI.DependencyCollector.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AI.Web.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AI.WindowsServer.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.ApplicationInsights.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.Helpers.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.Mvc.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.Optimization.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.Razor.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.WebPages.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.WebPages.Deployment.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.WebPages.Razor.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Antlr3.Runtime.pdb
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Newtonsoft.Json.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Net.Http.Formatting.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.Http.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\System.Web.Http.WebHost.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\EntityFramework.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\EntityFramework.SqlServer.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.Google.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\obj\Debug\CrudOperation.csproj.AssemblyReference.cache
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\obj\Debug\CrudOperation.csproj.CoreCompileInputs.cache
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\obj\Debug\CrudOperation.csproj.CopyComplete
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\obj\Debug\CrudOperation.dll
+C:\crud-operation-using-angualrjs-and-webapi-master\CrudOperation\obj\Debug\CrudOperation.pdb
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\ApplicationInsights.config
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\roslyn\csc.exe
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\roslyn\System.Collections.Immutable.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\roslyn\vbc.exe
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\roslyn\VBCSCompiler.exe
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\roslyn\VBCSCompiler.exe.config
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\CrudOperation.dll.config
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\CrudOperation.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\CrudOperation.pdb
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Antlr3.Runtime.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\EntityFramework.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\EntityFramework.SqlServer.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AI.Web.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AI.WindowsServer.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.ApplicationInsights.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.Google.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Web.Infrastructure.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Newtonsoft.Json.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Owin.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Net.Http.Formatting.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.Helpers.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.Http.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.Http.WebHost.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.Mvc.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.Optimization.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.Razor.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.WebPages.Deployment.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.WebPages.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.WebPages.Razor.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\WebGrease.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AI.Web.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AI.WindowsServer.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.ApplicationInsights.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.Helpers.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.Mvc.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.Optimization.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.Razor.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.WebPages.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.WebPages.Deployment.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.WebPages.Razor.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Antlr3.Runtime.pdb
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Newtonsoft.Json.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Net.Http.Formatting.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.Http.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\System.Web.Http.WebHost.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\EntityFramework.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\EntityFramework.SqlServer.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.Google.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Th1-VoHuynhTamTinh\CrudOperation\obj\Debug\CrudOperation.csproj.AssemblyReference.cache
+C:\Th1-VoHuynhTamTinh\CrudOperation\obj\Debug\CrudOperation.csproj.CoreCompileInputs.cache
+C:\Th1-VoHuynhTamTinh\CrudOperation\obj\Debug\CrudOperation.csproj.CopyComplete
+C:\Th1-VoHuynhTamTinh\CrudOperation\obj\Debug\CrudOperation.dll
+C:\Th1-VoHuynhTamTinh\CrudOperation\obj\Debug\CrudOperation.pdb
